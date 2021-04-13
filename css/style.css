@@ -1,0 +1,58 @@
+/* debug */
+header {
+    height: 200px;
+    background-color: cornflowerblue;
+}
+
+/* nav {
+    height: 200px;
+    background-color: aquamarine;
+} */
+
+.ms_jumbotron {
+    height: 200px;
+    background-color: salmon;
+}
+
+.ms_jumbotron_text {
+    height: 200px;
+    background-color: red;
+}
+
+.ms_jumbotron_form {
+    height: 200px;
+    background-color: chartreuse;
+}
+
+.ms_partners {
+    height: 200px;
+    background-color: chocolate;
+}
+
+/* ms_navbar */
+.ms_navbar .navbar-brand>img {
+    width: 150px;
+    vertical-align: middle;
+}
+
+.ms_navbar .navbar-brand {
+    padding: 10px 15px;
+}
+
+.ms_navbar {
+    background-color: #FFFFFF;
+}
+
+.ms_navbar.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.ms_navbar.navbar-default .navbar-toggle .icon-bar {
+    width: 16px;
+    margin-top: 3px;
+    background-color: #5397FE;
+}
+
+.ms_navbar .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #006AFF;
+}
